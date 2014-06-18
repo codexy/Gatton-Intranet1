@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_FacultyInfo" value="name:memberid;datatype:mediumint,name:SedonaID;datatype:tinytext" />
+</info>
